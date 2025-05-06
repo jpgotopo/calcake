@@ -1,0 +1,39 @@
+# Carpetas generadas por PyInstaller
+build/
+dist/
+__pycache__/
+
+# Archivos de entorno virtual
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales y logs
+*.log
+*.tmp
+*.bak
+
+# Archivos de configuración sensibles
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de PyInstaller (opcional)
+calcake2.0.spec
+pyinstaller.spec
